@@ -251,7 +251,7 @@ theme = "hugo-elate-theme"
   # Contact section
   [params.contact]
     enable = true
-    map = true
+    map = false
     title = "Get in touch"
     description = "Send us your questions on anything from getting more information about our group to submitting an idea for a talk or workshop."
     
