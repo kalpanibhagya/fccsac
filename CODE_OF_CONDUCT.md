@@ -44,6 +44,8 @@ The following behaviors are considered harassment and are unacceptable within ou
 *   Deliberate intimidation, stalking or following (online or in person).
 *   Advocating for, or encouraging, any of the above behavior.
 *   Sustained disruption of community events, including talks and presentations.
+*   No spamming which includes click-bait links, advertisements for a product or service, solicitations of any kind including emails, posting repeatedly in a short intervals, and posting off-topic and irrelevant discussions.
+*   No illegal/pirated content, requests for it, distributing it, or information regards to pirating.
 
 ## 5. Consequences of Unacceptable Behavior
 
